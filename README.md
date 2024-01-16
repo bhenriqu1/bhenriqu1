@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![](https://github.com/bhenriqu1/bhenriqu1/blob/main/squirtle.gif)
